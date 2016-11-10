@@ -191,4 +191,7 @@ To
 ## BRAIN STORMING
 
 1. Do you know what is IIS ?
-2. Why we need IIS to publish your Application ?
+2. How to publish your app to IIS ?
+3. Is it possible to run two websties on the same port?
+4. Why change default port(80/443) to another port is not a good idea?
+5. What is application pool?
