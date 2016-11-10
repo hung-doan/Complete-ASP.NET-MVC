@@ -53,5 +53,5 @@ In this tutorial I will guide you to use `File System` to publish your web appli
 
 ## BRAIN STORMING
 
-1. Do you know that : ASP & ASP .NET are different ?
-2. What are the different between ASP .NET Web Forms, ASP .NET Web MVC, ASP .NET Web API ?
+1. Do you know what is IIS ?
+2. Why we need IIS to publish your Application ?
